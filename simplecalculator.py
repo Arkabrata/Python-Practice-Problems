@@ -1,0 +1,18 @@
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+print("Sum:", a + b)
+print("Difference:", a - b)
+print("Product:", a * b)
+print("Quotient:", a / b)
+print("Remainder:", a % b)
+print("Power:", a ** b)
+print("Floor Division:", a // b)
+print("Square Root of first number:", a ** 0.5)
+print("Square Root of second number:", b ** 0.5)
+print("Average of both numbers:", (a + b) / 2)
+print("Maximum of both numbers:", max(a, b))
+print("Minimum of both numbers:", min(a, b))
+print("Absolute value of first number:", abs(a))
+print("Absolute value of second number:", abs(b))
+# THIS IS A SIMPLE CALCULATOR PROGRAM THAT PERFORMS BASIC ARITHMETIC OPERATIONS
+
